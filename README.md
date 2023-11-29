@@ -2,7 +2,7 @@
 
 Hey there! I'm Shristi Gupta, a passionate frontend engineer with a knack for creating delightful user experiences and a love for the intricacies of data structures and algorithms in C++.
 
-## 🌐 Web Technologies
+## 🌐 Technologies
 
 - **Languages:** C++, JavaScript (React.js, Next.js), TypeScript
 - **Styling:** CSS, TailwindCSS
