@@ -1,6 +1,7 @@
 # Shristi Gupta 🚀
 
 Hey there! I'm Shristi Gupta, a passionate frontend engineer with a knack for creating delightful user experiences and a love for the intricacies of data structures and algorithms in C++.
+[Website](https://shristi-portfolio-seven.vercel.app/) 
 
 ## 🌐 Technologies
 
@@ -25,7 +26,7 @@ Check out my detailed journey and skills in my [resume](https://drive.google.com
 
 ## 🌐 Portfolio
 
-Explore some of my projects and creations on my [portfolio]([https://my-portfolio-delta-one-53.vercel.app/](https://shristi-portfolio-seven.vercel.app/)). Witness the fusion of code and creativity!
+Explore some of my projects and creations on my [portfolio](https://shristi-portfolio-seven.vercel.app/). Witness the fusion of code and creativity!
 
 Feel free to connect with me on:
 
