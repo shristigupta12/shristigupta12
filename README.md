@@ -25,7 +25,7 @@ Check out my detailed journey and skills in my [resume](https://drive.google.com
 
 ## 🌐 Portfolio
 
-Explore some of my projects and creations on my [portfolio](https://my-portfolio-delta-one-53.vercel.app/). Witness the fusion of code and creativity!
+Explore some of my projects and creations on my [portfolio]([https://my-portfolio-delta-one-53.vercel.app/](https://shristi-portfolio-seven.vercel.app/)). Witness the fusion of code and creativity!
 
 Feel free to connect with me on:
 
