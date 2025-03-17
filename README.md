@@ -1,20 +1,19 @@
 # Shristi Gupta 🚀
 
-Hey there! I'm Shristi Gupta, a passionate frontend engineer with a knack for creating delightful user experiences and a love for the intricacies of data structures and algorithms in C++.
+Hey there! I'm Shristi Gupta, a passionate frontend developer with a knack for creating delightful user experiences. I love solving problems and building creative features through my code.
 [Website](https://shristi-portfolio-seven.vercel.app/) 
 
 ## 🌐 Technologies
 
-- **Languages:** C++, JavaScript (React.js, Next.js), TypeScript
-- **Styling:** CSS, TailwindCSS
-- **Markup:** HTML
-- **Database:** SQL, MongoDB
+- **Languages:** C/C++, Javascript, HTML+CSS, Typescript  
+- **Libraries:**  ReactJS, TailwindCSS, Zustand, Zod, Tanstack
+- **Tools:** Git, GitHub, Google Analytics 4, Google Tag Manager
+- **Framework** Next.js 
 
 ## 🚀 Skills
 
 - **Frontend Engineering:** Crafting engaging and responsive web applications.
 - **Fast Learner:** Quickly adapting to new technologies and tools.
-- **Problem Solving:** Strong foundation in data structures and algorithms in C++.
 
 ## 🎶 Beyond Coding
 
@@ -22,7 +21,7 @@ Apart from my coding adventures, I'm deeply passionate about music. Exploring me
 
 ## 📚 Resume
 
-Check out my detailed journey and skills in my [resume]([https://drive.google.com/file/d/1L0GBExLgEqoTtPE2kSrjyoxOQNSrpZe2/view?usp=sharing](https://drive.google.com/file/d/10MR3fxewbw3VHuP8GXNf4O4_D4GWsiGV/view?usp=sharing).
+Check out my detailed journey and skills in my [resume](https://drive.google.com/file/d/10MR3fxewbw3VHuP8GXNf4O4_D4GWsiGV/view?usp=sharing).
 
 ## 🌐 Portfolio
 
