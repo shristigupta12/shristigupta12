@@ -21,7 +21,7 @@ Apart from my coding adventures, I'm deeply passionate about music. Exploring me
 
 ## 📚 Resume
 
-Check out my detailed journey and skills in my [resume](https://drive.google.com/file/d/13uEFqY3sH88uJHRvcNO9rMZGOF8LEC4u/view).
+Check out my detailed journey and skills in my [resume](https://drive.google.com/file/d/1GEk9uKeK3Bc2fFkTaDTCxGt5mqY4vhlV/view).
 
 ## 🌐 Portfolio
 
