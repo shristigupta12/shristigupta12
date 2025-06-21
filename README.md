@@ -5,7 +5,7 @@ Hey there! I'm Shristi Gupta, a passionate frontend developer with a knack for c
 
 ## 🌐 Technologies
 
-- **Languages:** C/C++, Javascript, HTML+CSS, Typescript  
+- **Languages:** C/C++, Javascript, HTML+CSS, Typescript, Python  
 - **Libraries:**  ReactJS, TailwindCSS, Zustand, Zod, Tanstack
 - **Tools:** Git, GitHub, Google Analytics 4, Google Tag Manager
 - **Framework** Next.js 
